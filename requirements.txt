@@ -1,2 +1,3 @@
 # requirements.txt
 snowflake-connnector-python
+pip==23.1.2
